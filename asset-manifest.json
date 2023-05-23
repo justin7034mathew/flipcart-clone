@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flipcart-clone/static/css/main.33316ae7.css",
+    "main.js": "/flipcart-clone/static/js/main.349759a1.js",
+    "static/media/main-image.jpg": "/flipcart-clone/static/media/main-image.8cc218f99bf80d857311.jpg",
+    "static/media/flipkart-icon.png": "/flipcart-clone/static/media/flipkart-icon.fb0dc9e9e1eae9ad762b.png",
+    "static/media/fashion.webp": "/flipcart-clone/static/media/fashion.2280a33de6ff1d953f8b.webp",
+    "static/media/Glocery.webp": "/flipcart-clone/static/media/Glocery.dc32070acbbdbdc07dc1.webp",
+    "static/media/Beauty,Toy& More.webp": "/flipcart-clone/static/media/Beauty,Toy& More.057d2275457af97de570.webp",
+    "static/media/Two Wheelers.webp": "/flipcart-clone/static/media/Two Wheelers.552645a7fc3782bf2be9.webp",
+    "static/media/Appliances.webp": "/flipcart-clone/static/media/Appliances.ed1816ca59bae1a751e8.webp",
+    "static/media/electronics.webp": "/flipcart-clone/static/media/electronics.5b0a908ea73c43706cd8.webp",
+    "static/media/Top offers.webp": "/flipcart-clone/static/media/Top offers.8de5a3694b5d5c2787d9.webp",
+    "static/media/mobiles.webp": "/flipcart-clone/static/media/mobiles.8d02dfd9c236e80cfdd9.webp",
+    "static/media/Watches.webp": "/flipcart-clone/static/media/Watches.dc0adcf9627759edf156.webp",
+    "static/media/cameras.webp": "/flipcart-clone/static/media/cameras.74e5effd1dbcf42d100b.webp",
+    "static/media/Travel.webp": "/flipcart-clone/static/media/Travel.85e98d3273c65a561890.webp",
+    "static/media/printers.webp": "/flipcart-clone/static/media/printers.70e3cb8e13daf536e05a.webp",
+    "index.html": "/flipcart-clone/index.html",
+    "main.33316ae7.css.map": "/flipcart-clone/static/css/main.33316ae7.css.map",
+    "main.349759a1.js.map": "/flipcart-clone/static/js/main.349759a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33316ae7.css",
+    "static/js/main.349759a1.js"
+  ]
+}
